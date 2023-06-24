@@ -1,0 +1,232 @@
+body{
+    background-color: white;
+}
+.ana-box {
+    position: absolute;
+    background-color: black;
+    left: 400px;
+    height: 500px;
+    width: 300px;
+    border-radius: 25px;
+}
+.ana-box > div > img{
+    position: absolute;
+    margin: auto;
+    left: 25px;
+    top: 20px;
+    height: 250px;
+    width: 250px;
+    border-radius: 20%;
+}
+
+.ana-box > h1{
+    position: relative;
+    color: white;
+    font-family: "DM Sans", regular;
+    left: 25px;
+    top: 260px;
+}
+.ana-box > h2{
+    position: relative;
+    color: white;
+    font-family: "DM Sans";
+    font-weight: 100;
+    font-size: 15px;
+    left: 25px;
+    top: 240px;
+}
+.ana-box > p{
+    position: relative;
+    color: white;
+    width: 250px;
+    font-family: "DM Sans";
+    font-weight: 100;
+    font-size: 15px;
+    left: 25px;
+    top: 240px;
+}
+
+.education{
+    position: absolute;
+    background-color: #E9E5DD;
+    height: 430px;
+    width: 400px;
+    border-radius: 25px;
+    left: 720px
+}
+.education > h1{
+    position: relative;
+    color: black;
+    font-family: "DM Sans", regular;
+    font-size: 26px;
+    left: 25px;
+}
+.education > hr{
+    width: 345px;
+}
+
+.education > h2{
+    position: relative;
+    color: black;
+    font-family: "DM Sans", regular;
+    font-size: 20px;
+    left: 25px;
+}
+.education > h3{
+    position: relative;
+    color: gray;
+    font-family: "DM Sans", regular;
+    font-size: 13px;
+    bottom: 16px;
+    left: 25px;
+}
+.education > ul{
+    position: relative;
+    color: gray;
+    font-family: "DM Sans", regular;
+    font-size: 13px;
+    bottom: 16px;
+}
+
+.certifications{
+    position: absolute;
+    background-color: #f8f8f8;
+    height: 450px;
+    width: 400px;
+    border-radius: 25px;
+    left: 720px;
+    top: 470px;
+}
+
+.certifications > h1{
+    position: relative;
+    color: black;
+    font-family: "DM Sans", regular;
+    font-size: 26px;
+    left: 25px;
+}
+.certifications > hr{
+    width: 345px;
+}
+
+.certifications > h2{
+    position: relative;
+    color: black;
+    font-family: "DM Sans", regular;
+    font-size: 20px;
+    left: 25px;
+    top: 20px;
+    width: 96%;
+}
+
+.certifications > ul{
+    position: relative;
+    color: gray;
+    font-family: "DM Sans", regular;
+    font-size: 13px;
+    top: 13px;
+}
+
+.skills {
+    position: absolute;
+    background-color: #f8f8f8;
+    top: 540px;
+    left: 400px;
+    height: 300px;
+    width: 300px;
+    border-radius: 25px;
+}
+
+.skills > h1{
+    position: relative;
+    color: black;
+    font-family: "DM Sans", regular;
+    font-size: 26px;
+    left: 25px;
+}
+
+.skills > ul{
+    position: relative;
+    color: gray;
+    font-family: "DM Sans", regular;
+    top:10px;
+    font-size: 17px;
+    width: 82%;
+    bottom: 16px;
+}
+.skills > hr{
+    width: 240px;
+}
+
+.contact{
+    position: absolute;
+    background-color: #E9E5DD;
+    top: 860px;
+    left: 400px;
+    height: 300px;
+    width: 300px;
+    border-radius: 25px;
+    }
+
+    .contact > h1{
+        position: relative;
+        color: black;
+        font-family: "DM Sans", regular;
+        font-size: 26px;
+        left: 25px;
+    }
+
+    .contact > hr{
+        width: 240px;
+    }
+    
+    .contact > h2{
+        position: relative;
+        color: black;
+        font-family: "DM Sans", regular;
+        font-size: 20px;
+        left: 25px;
+    }
+    .contact > h3{
+        position: relative;
+        color: gray;
+        font-family: "DM Sans", regular;
+        font-size: 15px;
+        left: 25px;
+        bottom: 20px;
+        height: 2px;
+    }
+
+    .links{
+        position: absolute;
+        background-color: black;
+        top: 935px;
+        left: 720px;
+        height: 225px;
+        width: 400px;
+        border-radius: 25px;
+        }
+    .links > h1{
+            position: relative;
+            color: white;
+            font-family: "DM Sans", regular;
+            font-size: 26px;
+            left: 25px;
+        }
+    .links > ul{
+        position: relative;
+        color: white;
+        font-family: "DM Sans", regular;
+        font-size: 23px;
+        top: 13px;
+        }
+    .links > li{
+        position: relative;
+        height: 1;
+        }
+    .links > img{
+        position: relative;
+        width: 150px;
+        left: 230px;
+        bottom: 130px;
+    }
